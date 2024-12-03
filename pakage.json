@@ -1,7 +1,6 @@
 {
     "name": "react-stream",
     "version": "0.1.0",
-    "private": true,
     "scripts": {
       "test": "node main.js"    
     }
