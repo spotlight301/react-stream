@@ -1,5 +1,5 @@
 {
-    "name": "react-stream",
+    "name": "multter",
     "version": "0.1.0",
     "scripts": {
       "test": "node main.js"    
